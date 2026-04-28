@@ -303,6 +303,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [OpenCreator](https://opencreator.ai) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
+- [Remove Audio](https://remove-audio.com) - Free browser-based tool to remove audio from any video. Powered by WebAssembly + FFmpeg.wasm — no uploads, no signup, no watermarks.
 ## Visual Programming
 
 - [Darklang](https://darklang.com/) - Build an entire backend in just hours.
