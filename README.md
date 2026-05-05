@@ -271,6 +271,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Screenzy](https://screenzy.io) - Screenshot beautifier
 - [Ship](https://producthunt.com/ship) - A toolkit to ship awesome products, by Product Hunt ⛵️
 - [TinySnap](https://tinysnap.app) - A browser extension to capture screen and beautify screenshots
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose marketing utilities (no signup, browser-based): OG image generator, SEO meta tag generator, AI robots.txt generator, AI content disclosure generator (EU AI Act compliant), favicon generator, color palette generator, and a domain name generator. Open source.
 
 ## Mobile Apps
 
